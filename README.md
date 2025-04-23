@@ -11,7 +11,7 @@ In this technical lesson, we will walk through how to:
 * View information about database tables and column names.
 * Retrieve all information from a SQL table.
 
-You can follow along with the walkthrough by coding each step in `connecting-to-db.py`, referring to the written instructions provided below, for a comprehensive understanding of connecting to SQL databases. 
+You can follow along with the walkthrough by coding each step in `connecting-to-db.py`, referring to the written instructions provided below, for a comprehensive understanding of connecting to SQL databases. Be sure to run `pipenv install` and `pipenv shell` to get started, then `python3 connecting-to-db.py` to run the file as you go to see the print outputs. 
 
 ## Tools & Resources
 
