@@ -15,7 +15,7 @@ You can follow along with the walk through by coding each step in `connecting-to
 
 ## Tools & Resources
 
-- [GitHub Repo]()
+- [GitHub Repo](https://github.com/learn-co-curriculum/se-connecting-to-databases-technical-lesson)
 - [Python Sqlite3 documentation](https://docs.python.org/3/library/sqlite3.html)
 
 ## Instructions
